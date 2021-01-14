@@ -1,0 +1,677 @@
+"","canal","qualidade","percentual","impressoes"
+"1","Rede Globo","0.25 Mbps",4.8,932
+"2","Rede Globo","0.75 Mbps",13.92,2701
+"3","Rede Globo","1.25 Mbps",14.46,2806
+"4","Rede Globo","1.75 Mbps",1.6,310
+"5","Rede Globo","2.25 Mbps",33.17,6436
+"6","Rede Globo","2.75 Mbps",0.17,33
+"7","Rede Globo","3.25 Mbps",12.93,2508
+"8","Rede Globo","3.75 Mbps",6.62,1284
+"9","Rede Globo","4.25 Mbps",0.19,37
+"10","Rede Globo","4.75 Mbps",2.21,428
+"11","Rede Globo","5.25 Mbps",9.86,1913
+"12","Rede Globo","5.75 Mbps",0,0
+"13","Rede Globo","6.25 Mbps",0.07,14
+"14","Globoplay OTT","0.25 Mbps",0.57,96
+"15","Globoplay OTT","0.75 Mbps",7.88,1318
+"16","Globoplay OTT","1.25 Mbps",14.48,2421
+"17","Globoplay OTT","1.75 Mbps",0,0
+"18","Globoplay OTT","2.25 Mbps",20.26,3386
+"19","Globoplay OTT","2.75 Mbps",0,0
+"20","Globoplay OTT","3.25 Mbps",21.03,3515
+"21","Globoplay OTT","3.75 Mbps",0.63,106
+"22","Globoplay OTT","4.25 Mbps",0,0
+"23","Globoplay OTT","4.75 Mbps",33.29,5565
+"24","Globoplay OTT","5.25 Mbps",1.79,299
+"25","Globoplay OTT","5.75 Mbps",0,0
+"26","Globoplay OTT","6.25 Mbps",0.06,10
+"27","GloboNews OTT","0.25 Mbps",8.21,16
+"28","GloboNews OTT","0.75 Mbps",13.33,26
+"29","GloboNews OTT","1.25 Mbps",7.69,15
+"30","GloboNews OTT","1.75 Mbps",0,0
+"31","GloboNews OTT","2.25 Mbps",9.74,19
+"32","GloboNews OTT","2.75 Mbps",0,0
+"33","GloboNews OTT","3.25 Mbps",16.41,32
+"34","GloboNews OTT","3.75 Mbps",0,0
+"35","GloboNews OTT","4.25 Mbps",0,0
+"36","GloboNews OTT","4.75 Mbps",44.62,87
+"37","GloboNews OTT","5.25 Mbps",0,0
+"38","GloboNews OTT","5.75 Mbps",0,0
+"39","GloboNews OTT","6.25 Mbps",0,0
+"40","Multishow OTT","0.25 Mbps",1.32,7
+"41","Multishow OTT","0.75 Mbps",8.85,47
+"42","Multishow OTT","1.25 Mbps",12.62,67
+"43","Multishow OTT","1.75 Mbps",0,0
+"44","Multishow OTT","2.25 Mbps",24.67,131
+"45","Multishow OTT","2.75 Mbps",0,0
+"46","Multishow OTT","3.25 Mbps",21.85,116
+"47","Multishow OTT","3.75 Mbps",0,0
+"48","Multishow OTT","4.25 Mbps",0,0
+"49","Multishow OTT","4.75 Mbps",8.47,45
+"50","Multishow OTT","5.25 Mbps",22.22,118
+"51","Multishow OTT","5.75 Mbps",0,0
+"52","Multishow OTT","6.25 Mbps",0,0
+"53","Megapix OTT","0.25 Mbps",0,0
+"54","Megapix OTT","0.75 Mbps",0,0
+"55","Megapix OTT","1.25 Mbps",0,0
+"56","Megapix OTT","1.75 Mbps",20,5
+"57","Megapix OTT","2.25 Mbps",32,8
+"58","Megapix OTT","2.75 Mbps",0,0
+"59","Megapix OTT","3.25 Mbps",0,0
+"60","Megapix OTT","3.75 Mbps",48,12
+"61","Megapix OTT","4.25 Mbps",0,0
+"62","Megapix OTT","4.75 Mbps",0,0
+"63","Megapix OTT","5.25 Mbps",0,0
+"64","Megapix OTT","5.75 Mbps",0,0
+"65","Megapix OTT","6.25 Mbps",0,0
+"66","SporTV","0.25 Mbps",0,0
+"67","SporTV","0.75 Mbps",7.41,2
+"68","SporTV","1.25 Mbps",11.11,3
+"69","SporTV","1.75 Mbps",0,0
+"70","SporTV","2.25 Mbps",81.48,22
+"71","SporTV","2.75 Mbps",0,0
+"72","SporTV","3.25 Mbps",0,0
+"73","SporTV","3.75 Mbps",0,0
+"74","SporTV","4.25 Mbps",0,0
+"75","SporTV","4.75 Mbps",0,0
+"76","SporTV","5.25 Mbps",0,0
+"77","SporTV","5.75 Mbps",0,0
+"78","SporTV","6.25 Mbps",0,0
+"79","Gloob OTT","0.25 Mbps",0,0
+"80","Gloob OTT","0.75 Mbps",4.68,13
+"81","Gloob OTT","1.25 Mbps",14.03,39
+"82","Gloob OTT","1.75 Mbps",0,0
+"83","Gloob OTT","2.25 Mbps",24.46,68
+"84","Gloob OTT","2.75 Mbps",0,0
+"85","Gloob OTT","3.25 Mbps",48.2,134
+"86","Gloob OTT","3.75 Mbps",0,0
+"87","Gloob OTT","4.25 Mbps",0,0
+"88","Gloob OTT","4.75 Mbps",5.04,14
+"89","Gloob OTT","5.25 Mbps",3.6,10
+"90","Gloob OTT","5.75 Mbps",0,0
+"91","Gloob OTT","6.25 Mbps",0,0
+"92","Viva OTT","0.25 Mbps",8.21,11
+"93","Viva OTT","0.75 Mbps",9.7,13
+"94","Viva OTT","1.25 Mbps",15.67,21
+"95","Viva OTT","1.75 Mbps",0,0
+"96","Viva OTT","2.25 Mbps",14.18,19
+"97","Viva OTT","2.75 Mbps",0,0
+"98","Viva OTT","3.25 Mbps",5.97,8
+"99","Viva OTT","3.75 Mbps",0.75,1
+"100","Viva OTT","4.25 Mbps",0,0
+"101","Viva OTT","4.75 Mbps",35.82,48
+"102","Viva OTT","5.25 Mbps",9.7,13
+"103","Viva OTT","5.75 Mbps",0,0
+"104","Viva OTT","6.25 Mbps",0,0
+"105","Mais Globosat OTT","0.25 Mbps",2.04,1
+"106","Mais Globosat OTT","0.75 Mbps",6.12,3
+"107","Mais Globosat OTT","1.25 Mbps",12.24,6
+"108","Mais Globosat OTT","1.75 Mbps",0,0
+"109","Mais Globosat OTT","2.25 Mbps",16.33,8
+"110","Mais Globosat OTT","2.75 Mbps",0,0
+"111","Mais Globosat OTT","3.25 Mbps",22.45,11
+"112","Mais Globosat OTT","3.75 Mbps",0,0
+"113","Mais Globosat OTT","4.25 Mbps",0,0
+"114","Mais Globosat OTT","4.75 Mbps",24.49,12
+"115","Mais Globosat OTT","5.25 Mbps",16.33,8
+"116","Mais Globosat OTT","5.75 Mbps",0,0
+"117","Mais Globosat OTT","6.25 Mbps",0,0
+"118","Universal OTT","0.25 Mbps",0,0
+"119","Universal OTT","0.75 Mbps",6.19,7
+"120","Universal OTT","1.25 Mbps",17.7,20
+"121","Universal OTT","1.75 Mbps",12.39,14
+"122","Universal OTT","2.25 Mbps",37.17,42
+"123","Universal OTT","2.75 Mbps",0,0
+"124","Universal OTT","3.25 Mbps",1.77,2
+"125","Universal OTT","3.75 Mbps",16.81,19
+"126","Universal OTT","4.25 Mbps",0,0
+"127","Universal OTT","4.75 Mbps",0,0
+"128","Universal OTT","5.25 Mbps",7.96,9
+"129","Universal OTT","5.75 Mbps",0,0
+"130","Universal OTT","6.25 Mbps",0,0
+"131","GNT OTT","0.25 Mbps",4.76,9
+"132","GNT OTT","0.75 Mbps",13.76,26
+"133","GNT OTT","1.25 Mbps",11.64,22
+"134","GNT OTT","1.75 Mbps",0,0
+"135","GNT OTT","2.25 Mbps",15.34,29
+"136","GNT OTT","2.75 Mbps",0,0
+"137","GNT OTT","3.25 Mbps",21.69,41
+"138","GNT OTT","3.75 Mbps",0,0
+"139","GNT OTT","4.25 Mbps",0,0
+"140","GNT OTT","4.75 Mbps",20.11,38
+"141","GNT OTT","5.25 Mbps",12.7,24
+"142","GNT OTT","5.75 Mbps",0,0
+"143","GNT OTT","6.25 Mbps",0,0
+"144","SporTV OTT","0.25 Mbps",8.33,11
+"145","SporTV OTT","0.75 Mbps",15.15,20
+"146","SporTV OTT","1.25 Mbps",8.33,11
+"147","SporTV OTT","1.75 Mbps",0,0
+"148","SporTV OTT","2.25 Mbps",14.39,19
+"149","SporTV OTT","2.75 Mbps",0,0
+"150","SporTV OTT","3.25 Mbps",12.12,16
+"151","SporTV OTT","3.75 Mbps",0,0
+"152","SporTV OTT","4.25 Mbps",0,0
+"153","SporTV OTT","4.75 Mbps",41.67,55
+"154","SporTV OTT","5.25 Mbps",0,0
+"155","SporTV OTT","5.75 Mbps",0,0
+"156","SporTV OTT","6.25 Mbps",0,0
+"157","TV Anhanguera - GO","0.25 Mbps",0,0
+"158","TV Anhanguera - GO","0.75 Mbps",0,0
+"159","TV Anhanguera - GO","1.25 Mbps",0,0
+"160","TV Anhanguera - GO","1.75 Mbps",0,0
+"161","TV Anhanguera - GO","2.25 Mbps",100,9
+"162","TV Anhanguera - GO","2.75 Mbps",0,0
+"163","TV Anhanguera - GO","3.25 Mbps",0,0
+"164","TV Anhanguera - GO","3.75 Mbps",0,0
+"165","TV Anhanguera - GO","4.25 Mbps",0,0
+"166","TV Anhanguera - GO","4.75 Mbps",0,0
+"167","TV Anhanguera - GO","5.25 Mbps",0,0
+"168","TV Anhanguera - GO","5.75 Mbps",0,0
+"169","TV Anhanguera - GO","6.25 Mbps",0,0
+"170","Som Livre OTT","0.25 Mbps",0,0
+"171","Som Livre OTT","0.75 Mbps",8,4
+"172","Som Livre OTT","1.25 Mbps",14,7
+"173","Som Livre OTT","1.75 Mbps",0,0
+"174","Som Livre OTT","2.25 Mbps",10,5
+"175","Som Livre OTT","2.75 Mbps",0,0
+"176","Som Livre OTT","3.25 Mbps",40,20
+"177","Som Livre OTT","3.75 Mbps",0,0
+"178","Som Livre OTT","4.25 Mbps",0,0
+"179","Som Livre OTT","4.75 Mbps",0,0
+"180","Som Livre OTT","5.25 Mbps",28,14
+"181","Som Livre OTT","5.75 Mbps",0,0
+"182","Som Livre OTT","6.25 Mbps",0,0
+"183","Futura OTT","0.25 Mbps",15.38,4
+"184","Futura OTT","0.75 Mbps",23.08,6
+"185","Futura OTT","1.25 Mbps",0,0
+"186","Futura OTT","1.75 Mbps",0,0
+"187","Futura OTT","2.25 Mbps",7.69,2
+"188","Futura OTT","2.75 Mbps",0,0
+"189","Futura OTT","3.25 Mbps",30.77,8
+"190","Futura OTT","3.75 Mbps",0,0
+"191","Futura OTT","4.25 Mbps",0,0
+"192","Futura OTT","4.75 Mbps",23.08,6
+"193","Futura OTT","5.25 Mbps",0,0
+"194","Futura OTT","5.75 Mbps",0,0
+"195","Futura OTT","6.25 Mbps",0,0
+"196","TV Verdes Mares","0.25 Mbps",0,0
+"197","TV Verdes Mares","0.75 Mbps",0,0
+"198","TV Verdes Mares","1.25 Mbps",6.25,1
+"199","TV Verdes Mares","1.75 Mbps",0,0
+"200","TV Verdes Mares","2.25 Mbps",93.75,15
+"201","TV Verdes Mares","2.75 Mbps",0,0
+"202","TV Verdes Mares","3.25 Mbps",0,0
+"203","TV Verdes Mares","3.75 Mbps",0,0
+"204","TV Verdes Mares","4.25 Mbps",0,0
+"205","TV Verdes Mares","4.75 Mbps",0,0
+"206","TV Verdes Mares","5.25 Mbps",0,0
+"207","TV Verdes Mares","5.75 Mbps",0,0
+"208","TV Verdes Mares","6.25 Mbps",0,0
+"209","NSC - SC","0.25 Mbps",0,0
+"210","NSC - SC","0.75 Mbps",35.29,12
+"211","NSC - SC","1.25 Mbps",2.94,1
+"212","NSC - SC","1.75 Mbps",0,0
+"213","NSC - SC","2.25 Mbps",61.76,21
+"214","NSC - SC","2.75 Mbps",0,0
+"215","NSC - SC","3.25 Mbps",0,0
+"216","NSC - SC","3.75 Mbps",0,0
+"217","NSC - SC","4.25 Mbps",0,0
+"218","NSC - SC","4.75 Mbps",0,0
+"219","NSC - SC","5.25 Mbps",0,0
+"220","NSC - SC","5.75 Mbps",0,0
+"221","NSC - SC","6.25 Mbps",0,0
+"222","Philos OTT","0.25 Mbps",0,0
+"223","Philos OTT","0.75 Mbps",0,0
+"224","Philos OTT","1.25 Mbps",25,2
+"225","Philos OTT","1.75 Mbps",0,0
+"226","Philos OTT","2.25 Mbps",0,0
+"227","Philos OTT","2.75 Mbps",0,0
+"228","Philos OTT","3.25 Mbps",25,2
+"229","Philos OTT","3.75 Mbps",0,0
+"230","Philos OTT","4.25 Mbps",0,0
+"231","Philos OTT","4.75 Mbps",50,4
+"232","Philos OTT","5.25 Mbps",0,0
+"233","Philos OTT","5.75 Mbps",0,0
+"234","Philos OTT","6.25 Mbps",0,0
+"235","EPTV (SP)","0.25 Mbps",0,0
+"236","EPTV (SP)","0.75 Mbps",8.57,3
+"237","EPTV (SP)","1.25 Mbps",8.57,3
+"238","EPTV (SP)","1.75 Mbps",0,0
+"239","EPTV (SP)","2.25 Mbps",80,28
+"240","EPTV (SP)","2.75 Mbps",0,0
+"241","EPTV (SP)","3.25 Mbps",2.86,1
+"242","EPTV (SP)","3.75 Mbps",0,0
+"243","EPTV (SP)","4.25 Mbps",0,0
+"244","EPTV (SP)","4.75 Mbps",0,0
+"245","EPTV (SP)","5.25 Mbps",0,0
+"246","EPTV (SP)","5.75 Mbps",0,0
+"247","EPTV (SP)","6.25 Mbps",0,0
+"248","TV Morena","0.25 Mbps",0,0
+"249","TV Morena","0.75 Mbps",30.77,8
+"250","TV Morena","1.25 Mbps",30.77,8
+"251","TV Morena","1.75 Mbps",0,0
+"252","TV Morena","2.25 Mbps",38.46,10
+"253","TV Morena","2.75 Mbps",0,0
+"254","TV Morena","3.25 Mbps",0,0
+"255","TV Morena","3.75 Mbps",0,0
+"256","TV Morena","4.25 Mbps",0,0
+"257","TV Morena","4.75 Mbps",0,0
+"258","TV Morena","5.25 Mbps",0,0
+"259","TV Morena","5.75 Mbps",0,0
+"260","TV Morena","6.25 Mbps",0,0
+"261","Bis OTT","0.25 Mbps",10,1
+"262","Bis OTT","0.75 Mbps",10,1
+"263","Bis OTT","1.25 Mbps",0,0
+"264","Bis OTT","1.75 Mbps",0,0
+"265","Bis OTT","2.25 Mbps",10,1
+"266","Bis OTT","2.75 Mbps",0,0
+"267","Bis OTT","3.25 Mbps",10,1
+"268","Bis OTT","3.75 Mbps",0,0
+"269","Bis OTT","4.25 Mbps",0,0
+"270","Bis OTT","4.75 Mbps",60,6
+"271","Bis OTT","5.25 Mbps",0,0
+"272","Bis OTT","5.75 Mbps",0,0
+"273","Bis OTT","6.25 Mbps",0,0
+"274","RPC","0.25 Mbps",0,0
+"275","RPC","0.75 Mbps",81.58,31
+"276","RPC","1.25 Mbps",0,0
+"277","RPC","1.75 Mbps",0,0
+"278","RPC","2.25 Mbps",18.42,7
+"279","RPC","2.75 Mbps",0,0
+"280","RPC","3.25 Mbps",0,0
+"281","RPC","3.75 Mbps",0,0
+"282","RPC","4.25 Mbps",0,0
+"283","RPC","4.75 Mbps",0,0
+"284","RPC","5.25 Mbps",0,0
+"285","RPC","5.75 Mbps",0,0
+"286","RPC","6.25 Mbps",0,0
+"287","SyFy OTT","0.25 Mbps",0,0
+"288","SyFy OTT","0.75 Mbps",0,0
+"289","SyFy OTT","1.25 Mbps",0,0
+"290","SyFy OTT","1.75 Mbps",25,4
+"291","SyFy OTT","2.25 Mbps",0,0
+"292","SyFy OTT","2.75 Mbps",0,0
+"293","SyFy OTT","3.25 Mbps",0,0
+"294","SyFy OTT","3.75 Mbps",75,12
+"295","SyFy OTT","4.25 Mbps",0,0
+"296","SyFy OTT","4.75 Mbps",0,0
+"297","SyFy OTT","5.25 Mbps",0,0
+"298","SyFy OTT","5.75 Mbps",0,0
+"299","SyFy OTT","6.25 Mbps",0,0
+"300","Canal Brasil OTT","0.25 Mbps",0,0
+"301","Canal Brasil OTT","0.75 Mbps",0,0
+"302","Canal Brasil OTT","1.25 Mbps",10.53,2
+"303","Canal Brasil OTT","1.75 Mbps",0,0
+"304","Canal Brasil OTT","2.25 Mbps",10.53,2
+"305","Canal Brasil OTT","2.75 Mbps",0,0
+"306","Canal Brasil OTT","3.25 Mbps",21.05,4
+"307","Canal Brasil OTT","3.75 Mbps",0,0
+"308","Canal Brasil OTT","4.25 Mbps",0,0
+"309","Canal Brasil OTT","4.75 Mbps",36.84,7
+"310","Canal Brasil OTT","5.25 Mbps",21.05,4
+"311","Canal Brasil OTT","5.75 Mbps",0,0
+"312","Canal Brasil OTT","6.25 Mbps",0,0
+"313","OFF OTT","0.25 Mbps",0,0
+"314","OFF OTT","0.75 Mbps",0,0
+"315","OFF OTT","1.25 Mbps",0,0
+"316","OFF OTT","1.75 Mbps",0,0
+"317","OFF OTT","2.25 Mbps",0,0
+"318","OFF OTT","2.75 Mbps",0,0
+"319","OFF OTT","3.25 Mbps",0,0
+"320","OFF OTT","3.75 Mbps",0,0
+"321","OFF OTT","4.25 Mbps",0,0
+"322","OFF OTT","4.75 Mbps",100,8
+"323","OFF OTT","5.25 Mbps",0,0
+"324","OFF OTT","5.75 Mbps",0,0
+"325","OFF OTT","6.25 Mbps",0,0
+"326","RBS - RS","0.25 Mbps",0,0
+"327","RBS - RS","0.75 Mbps",18.75,3
+"328","RBS - RS","1.25 Mbps",18.75,3
+"329","RBS - RS","1.75 Mbps",0,0
+"330","RBS - RS","2.25 Mbps",62.5,10
+"331","RBS - RS","2.75 Mbps",0,0
+"332","RBS - RS","3.25 Mbps",0,0
+"333","RBS - RS","3.75 Mbps",0,0
+"334","RBS - RS","4.25 Mbps",0,0
+"335","RBS - RS","4.75 Mbps",0,0
+"336","RBS - RS","5.25 Mbps",0,0
+"337","RBS - RS","5.75 Mbps",0,0
+"338","RBS - RS","6.25 Mbps",0,0
+"339","Combate OTT","0.25 Mbps",0,0
+"340","Combate OTT","0.75 Mbps",0,0
+"341","Combate OTT","1.25 Mbps",5.26,1
+"342","Combate OTT","1.75 Mbps",0,0
+"343","Combate OTT","2.25 Mbps",10.53,2
+"344","Combate OTT","2.75 Mbps",0,0
+"345","Combate OTT","3.25 Mbps",10.53,2
+"346","Combate OTT","3.75 Mbps",0,0
+"347","Combate OTT","4.25 Mbps",0,0
+"348","Combate OTT","4.75 Mbps",0,0
+"349","Combate OTT","5.25 Mbps",73.68,14
+"350","Combate OTT","5.75 Mbps",0,0
+"351","Combate OTT","6.25 Mbps",0,0
+"352","TV Diário","0.25 Mbps",0,0
+"353","TV Diário","0.75 Mbps",0,0
+"354","TV Diário","1.25 Mbps",0,0
+"355","TV Diário","1.75 Mbps",0,0
+"356","TV Diário","2.25 Mbps",100,5
+"357","TV Diário","2.75 Mbps",0,0
+"358","TV Diário","3.25 Mbps",0,0
+"359","TV Diário","3.75 Mbps",0,0
+"360","TV Diário","4.25 Mbps",0,0
+"361","TV Diário","4.75 Mbps",0,0
+"362","TV Diário","5.25 Mbps",0,0
+"363","TV Diário","5.75 Mbps",0,0
+"364","TV Diário","6.25 Mbps",0,0
+"365","Studio Universal OTT","0.25 Mbps",0,0
+"366","Studio Universal OTT","0.75 Mbps",5.41,2
+"367","Studio Universal OTT","1.25 Mbps",5.41,2
+"368","Studio Universal OTT","1.75 Mbps",16.22,6
+"369","Studio Universal OTT","2.25 Mbps",24.32,9
+"370","Studio Universal OTT","2.75 Mbps",0,0
+"371","Studio Universal OTT","3.25 Mbps",16.22,6
+"372","Studio Universal OTT","3.75 Mbps",16.22,6
+"373","Studio Universal OTT","4.25 Mbps",0,0
+"374","Studio Universal OTT","4.75 Mbps",0,0
+"375","Studio Universal OTT","5.25 Mbps",16.22,6
+"376","Studio Universal OTT","5.75 Mbps",0,0
+"377","Studio Universal OTT","6.25 Mbps",0,0
+"378","TV Anhanguera - TO","0.25 Mbps",0,0
+"379","TV Anhanguera - TO","0.75 Mbps",0,0
+"380","TV Anhanguera - TO","1.25 Mbps",25,1
+"381","TV Anhanguera - TO","1.75 Mbps",0,0
+"382","TV Anhanguera - TO","2.25 Mbps",75,3
+"383","TV Anhanguera - TO","2.75 Mbps",0,0
+"384","TV Anhanguera - TO","3.25 Mbps",0,0
+"385","TV Anhanguera - TO","3.75 Mbps",0,0
+"386","TV Anhanguera - TO","4.25 Mbps",0,0
+"387","TV Anhanguera - TO","4.75 Mbps",0,0
+"388","TV Anhanguera - TO","5.25 Mbps",0,0
+"389","TV Anhanguera - TO","5.75 Mbps",0,0
+"390","TV Anhanguera - TO","6.25 Mbps",0,0
+"391","TV Tem - Interior SP","0.25 Mbps",0,0
+"392","TV Tem - Interior SP","0.75 Mbps",5,1
+"393","TV Tem - Interior SP","1.25 Mbps",10,2
+"394","TV Tem - Interior SP","1.75 Mbps",0,0
+"395","TV Tem - Interior SP","2.25 Mbps",85,17
+"396","TV Tem - Interior SP","2.75 Mbps",0,0
+"397","TV Tem - Interior SP","3.25 Mbps",0,0
+"398","TV Tem - Interior SP","3.75 Mbps",0,0
+"399","TV Tem - Interior SP","4.25 Mbps",0,0
+"400","TV Tem - Interior SP","4.75 Mbps",0,0
+"401","TV Tem - Interior SP","5.25 Mbps",0,0
+"402","TV Tem - Interior SP","5.75 Mbps",0,0
+"403","TV Tem - Interior SP","6.25 Mbps",0,0
+"404","TV Mirante","0.25 Mbps",0,0
+"405","TV Mirante","0.75 Mbps",0,0
+"406","TV Mirante","1.25 Mbps",40,4
+"407","TV Mirante","1.75 Mbps",0,0
+"408","TV Mirante","2.25 Mbps",60,6
+"409","TV Mirante","2.75 Mbps",0,0
+"410","TV Mirante","3.25 Mbps",0,0
+"411","TV Mirante","3.75 Mbps",0,0
+"412","TV Mirante","4.25 Mbps",0,0
+"413","TV Mirante","4.75 Mbps",0,0
+"414","TV Mirante","5.25 Mbps",0,0
+"415","TV Mirante","5.75 Mbps",0,0
+"416","TV Mirante","6.25 Mbps",0,0
+"417","Inter TV RJ","0.25 Mbps",0,0
+"418","Inter TV RJ","0.75 Mbps",0,0
+"419","Inter TV RJ","1.25 Mbps",0,0
+"420","Inter TV RJ","1.75 Mbps",0,0
+"421","Inter TV RJ","2.25 Mbps",100,10
+"422","Inter TV RJ","2.75 Mbps",0,0
+"423","Inter TV RJ","3.25 Mbps",0,0
+"424","Inter TV RJ","3.75 Mbps",0,0
+"425","Inter TV RJ","4.25 Mbps",0,0
+"426","Inter TV RJ","4.75 Mbps",0,0
+"427","Inter TV RJ","5.25 Mbps",0,0
+"428","Inter TV RJ","5.75 Mbps",0,0
+"429","Inter TV RJ","6.25 Mbps",0,0
+"430","TV Rio Sul","0.25 Mbps",0,0
+"431","TV Rio Sul","0.75 Mbps",16.67,2
+"432","TV Rio Sul","1.25 Mbps",16.67,2
+"433","TV Rio Sul","1.75 Mbps",0,0
+"434","TV Rio Sul","2.25 Mbps",66.67,8
+"435","TV Rio Sul","2.75 Mbps",0,0
+"436","TV Rio Sul","3.25 Mbps",0,0
+"437","TV Rio Sul","3.75 Mbps",0,0
+"438","TV Rio Sul","4.25 Mbps",0,0
+"439","TV Rio Sul","4.75 Mbps",0,0
+"440","TV Rio Sul","5.25 Mbps",0,0
+"441","TV Rio Sul","5.75 Mbps",0,0
+"442","TV Rio Sul","6.25 Mbps",0,0
+"443","TV Gazeta - ES","0.25 Mbps",0,0
+"444","TV Gazeta - ES","0.75 Mbps",4.35,2
+"445","TV Gazeta - ES","1.25 Mbps",4.35,2
+"446","TV Gazeta - ES","1.75 Mbps",0,0
+"447","TV Gazeta - ES","2.25 Mbps",91.3,42
+"448","TV Gazeta - ES","2.75 Mbps",0,0
+"449","TV Gazeta - ES","3.25 Mbps",0,0
+"450","TV Gazeta - ES","3.75 Mbps",0,0
+"451","TV Gazeta - ES","4.25 Mbps",0,0
+"452","TV Gazeta - ES","4.75 Mbps",0,0
+"453","TV Gazeta - ES","5.25 Mbps",0,0
+"454","TV Gazeta - ES","5.75 Mbps",0,0
+"455","TV Gazeta - ES","6.25 Mbps",0,0
+"456","Gloobinho OTT","0.25 Mbps",0,0
+"457","Gloobinho OTT","0.75 Mbps",0,0
+"458","Gloobinho OTT","1.25 Mbps",0,0
+"459","Gloobinho OTT","1.75 Mbps",0,0
+"460","Gloobinho OTT","2.25 Mbps",0,0
+"461","Gloobinho OTT","2.75 Mbps",0,0
+"462","Gloobinho OTT","3.25 Mbps",50,6
+"463","Gloobinho OTT","3.75 Mbps",0,0
+"464","Gloobinho OTT","4.25 Mbps",0,0
+"465","Gloobinho OTT","4.75 Mbps",50,6
+"466","Gloobinho OTT","5.25 Mbps",0,0
+"467","Gloobinho OTT","5.75 Mbps",0,0
+"468","Gloobinho OTT","6.25 Mbps",0,0
+"469","Rede Bahia","0.25 Mbps",0,0
+"470","Rede Bahia","0.75 Mbps",11.76,2
+"471","Rede Bahia","1.25 Mbps",23.53,4
+"472","Rede Bahia","1.75 Mbps",0,0
+"473","Rede Bahia","2.25 Mbps",64.71,11
+"474","Rede Bahia","2.75 Mbps",0,0
+"475","Rede Bahia","3.25 Mbps",0,0
+"476","Rede Bahia","3.75 Mbps",0,0
+"477","Rede Bahia","4.25 Mbps",0,0
+"478","Rede Bahia","4.75 Mbps",0,0
+"479","Rede Bahia","5.25 Mbps",0,0
+"480","Rede Bahia","5.75 Mbps",0,0
+"481","Rede Bahia","6.25 Mbps",0,0
+"482","Rede Liberal - PA","0.25 Mbps",0,0
+"483","Rede Liberal - PA","0.75 Mbps",0,0
+"484","Rede Liberal - PA","1.25 Mbps",50,1
+"485","Rede Liberal - PA","1.75 Mbps",0,0
+"486","Rede Liberal - PA","2.25 Mbps",50,1
+"487","Rede Liberal - PA","2.75 Mbps",0,0
+"488","Rede Liberal - PA","3.25 Mbps",0,0
+"489","Rede Liberal - PA","3.75 Mbps",0,0
+"490","Rede Liberal - PA","4.25 Mbps",0,0
+"491","Rede Liberal - PA","4.75 Mbps",0,0
+"492","Rede Liberal - PA","5.25 Mbps",0,0
+"493","Rede Liberal - PA","5.75 Mbps",0,0
+"494","Rede Liberal - PA","6.25 Mbps",0,0
+"495","TV Sergipe","0.25 Mbps",0,0
+"496","TV Sergipe","0.75 Mbps",0,0
+"497","TV Sergipe","1.25 Mbps",0,0
+"498","TV Sergipe","1.75 Mbps",0,0
+"499","TV Sergipe","2.25 Mbps",100,4
+"500","TV Sergipe","2.75 Mbps",0,0
+"501","TV Sergipe","3.25 Mbps",0,0
+"502","TV Sergipe","3.75 Mbps",0,0
+"503","TV Sergipe","4.25 Mbps",0,0
+"504","TV Sergipe","4.75 Mbps",0,0
+"505","TV Sergipe","5.25 Mbps",0,0
+"506","TV Sergipe","5.75 Mbps",0,0
+"507","TV Sergipe","6.25 Mbps",0,0
+"508","TV Integração - Triângulo Mineiro","0.25 Mbps",0,0
+"509","TV Integração - Triângulo Mineiro","0.75 Mbps",0,0
+"510","TV Integração - Triângulo Mineiro","1.25 Mbps",0,0
+"511","TV Integração - Triângulo Mineiro","1.75 Mbps",0,0
+"512","TV Integração - Triângulo Mineiro","2.25 Mbps",100,4
+"513","TV Integração - Triângulo Mineiro","2.75 Mbps",0,0
+"514","TV Integração - Triângulo Mineiro","3.25 Mbps",0,0
+"515","TV Integração - Triângulo Mineiro","3.75 Mbps",0,0
+"516","TV Integração - Triângulo Mineiro","4.25 Mbps",0,0
+"517","TV Integração - Triângulo Mineiro","4.75 Mbps",0,0
+"518","TV Integração - Triângulo Mineiro","5.25 Mbps",0,0
+"519","TV Integração - Triângulo Mineiro","5.75 Mbps",0,0
+"520","TV Integração - Triângulo Mineiro","6.25 Mbps",0,0
+"521","TV Tribuna","0.25 Mbps",0,0
+"522","TV Tribuna","0.75 Mbps",33.33,1
+"523","TV Tribuna","1.25 Mbps",33.33,1
+"524","TV Tribuna","1.75 Mbps",0,0
+"525","TV Tribuna","2.25 Mbps",33.33,1
+"526","TV Tribuna","2.75 Mbps",0,0
+"527","TV Tribuna","3.25 Mbps",0,0
+"528","TV Tribuna","3.75 Mbps",0,0
+"529","TV Tribuna","4.25 Mbps",0,0
+"530","TV Tribuna","4.75 Mbps",0,0
+"531","TV Tribuna","5.25 Mbps",0,0
+"532","TV Tribuna","5.75 Mbps",0,0
+"533","TV Tribuna","6.25 Mbps",0,0
+"534","Inter TV MG","0.25 Mbps",0,0
+"535","Inter TV MG","0.75 Mbps",12.5,1
+"536","Inter TV MG","1.25 Mbps",25,2
+"537","Inter TV MG","1.75 Mbps",0,0
+"538","Inter TV MG","2.25 Mbps",62.5,5
+"539","Inter TV MG","2.75 Mbps",0,0
+"540","Inter TV MG","3.25 Mbps",0,0
+"541","Inter TV MG","3.75 Mbps",0,0
+"542","Inter TV MG","4.25 Mbps",0,0
+"543","Inter TV MG","4.75 Mbps",0,0
+"544","Inter TV MG","5.25 Mbps",0,0
+"545","Inter TV MG","5.75 Mbps",0,0
+"546","Inter TV MG","6.25 Mbps",0,0
+"547","TV Gazeta - AL","0.25 Mbps",0,0
+"548","TV Gazeta - AL","0.75 Mbps",0,0
+"549","TV Gazeta - AL","1.25 Mbps",0,0
+"550","TV Gazeta - AL","1.75 Mbps",0,0
+"551","TV Gazeta - AL","2.25 Mbps",100,2
+"552","TV Gazeta - AL","2.75 Mbps",0,0
+"553","TV Gazeta - AL","3.25 Mbps",0,0
+"554","TV Gazeta - AL","3.75 Mbps",0,0
+"555","TV Gazeta - AL","4.25 Mbps",0,0
+"556","TV Gazeta - AL","4.75 Mbps",0,0
+"557","TV Gazeta - AL","5.25 Mbps",0,0
+"558","TV Gazeta - AL","5.75 Mbps",0,0
+"559","TV Gazeta - AL","6.25 Mbps",0,0
+"560","Inter TV RN","0.25 Mbps",0,0
+"561","Inter TV RN","0.75 Mbps",0,0
+"562","Inter TV RN","1.25 Mbps",25,1
+"563","Inter TV RN","1.75 Mbps",0,0
+"564","Inter TV RN","2.25 Mbps",75,3
+"565","Inter TV RN","2.75 Mbps",0,0
+"566","Inter TV RN","3.25 Mbps",0,0
+"567","Inter TV RN","3.75 Mbps",0,0
+"568","Inter TV RN","4.25 Mbps",0,0
+"569","Inter TV RN","4.75 Mbps",0,0
+"570","Inter TV RN","5.25 Mbps",0,0
+"571","Inter TV RN","5.75 Mbps",0,0
+"572","Inter TV RN","6.25 Mbps",0,0
+"573","VIVA","0.25 Mbps",0,0
+"574","VIVA","0.75 Mbps",0,0
+"575","VIVA","1.25 Mbps",11.11,1
+"576","VIVA","1.75 Mbps",0,0
+"577","VIVA","2.25 Mbps",33.33,3
+"578","VIVA","2.75 Mbps",0,0
+"579","VIVA","3.25 Mbps",55.56,5
+"580","VIVA","3.75 Mbps",0,0
+"581","VIVA","4.25 Mbps",0,0
+"582","VIVA","4.75 Mbps",0,0
+"583","VIVA","5.25 Mbps",0,0
+"584","VIVA","5.75 Mbps",0,0
+"585","VIVA","6.25 Mbps",0,0
+"586","TV Vanguarda (SP)","0.25 Mbps",0,0
+"587","TV Vanguarda (SP)","0.75 Mbps",0,0
+"588","TV Vanguarda (SP)","1.25 Mbps",0,0
+"589","TV Vanguarda (SP)","1.75 Mbps",0,0
+"590","TV Vanguarda (SP)","2.25 Mbps",100,1
+"591","TV Vanguarda (SP)","2.75 Mbps",0,0
+"592","TV Vanguarda (SP)","3.25 Mbps",0,0
+"593","TV Vanguarda (SP)","3.75 Mbps",0,0
+"594","TV Vanguarda (SP)","4.25 Mbps",0,0
+"595","TV Vanguarda (SP)","4.75 Mbps",0,0
+"596","TV Vanguarda (SP)","5.25 Mbps",0,0
+"597","TV Vanguarda (SP)","5.75 Mbps",0,0
+"598","TV Vanguarda (SP)","6.25 Mbps",0,0
+"599","Rede Paraíba","0.25 Mbps",0,0
+"600","Rede Paraíba","0.75 Mbps",50,1
+"601","Rede Paraíba","1.25 Mbps",50,1
+"602","Rede Paraíba","1.75 Mbps",0,0
+"603","Rede Paraíba","2.25 Mbps",0,0
+"604","Rede Paraíba","2.75 Mbps",0,0
+"605","Rede Paraíba","3.25 Mbps",0,0
+"606","Rede Paraíba","3.75 Mbps",0,0
+"607","Rede Paraíba","4.25 Mbps",0,0
+"608","Rede Paraíba","4.75 Mbps",0,0
+"609","Rede Paraíba","5.25 Mbps",0,0
+"610","Rede Paraíba","5.75 Mbps",0,0
+"611","Rede Paraíba","6.25 Mbps",0,0
+"612","Rede Clube","0.25 Mbps",0,0
+"613","Rede Clube","0.75 Mbps",0,0
+"614","Rede Clube","1.25 Mbps",100,1
+"615","Rede Clube","1.75 Mbps",0,0
+"616","Rede Clube","2.25 Mbps",0,0
+"617","Rede Clube","2.75 Mbps",0,0
+"618","Rede Clube","3.25 Mbps",0,0
+"619","Rede Clube","3.75 Mbps",0,0
+"620","Rede Clube","4.25 Mbps",0,0
+"621","Rede Clube","4.75 Mbps",0,0
+"622","Rede Clube","5.25 Mbps",0,0
+"623","Rede Clube","5.75 Mbps",0,0
+"624","Rede Clube","6.25 Mbps",0,0
+"625","TV Asa Branca - PE","0.25 Mbps",0,0
+"626","TV Asa Branca - PE","0.75 Mbps",100,2
+"627","TV Asa Branca - PE","1.25 Mbps",0,0
+"628","TV Asa Branca - PE","1.75 Mbps",0,0
+"629","TV Asa Branca - PE","2.25 Mbps",0,0
+"630","TV Asa Branca - PE","2.75 Mbps",0,0
+"631","TV Asa Branca - PE","3.25 Mbps",0,0
+"632","TV Asa Branca - PE","3.75 Mbps",0,0
+"633","TV Asa Branca - PE","4.25 Mbps",0,0
+"634","TV Asa Branca - PE","4.75 Mbps",0,0
+"635","TV Asa Branca - PE","5.25 Mbps",0,0
+"636","TV Asa Branca - PE","5.75 Mbps",0,0
+"637","TV Asa Branca - PE","6.25 Mbps",0,0
+"638","Gloobinho","0.25 Mbps",0,0
+"639","Gloobinho","0.75 Mbps",0,0
+"640","Gloobinho","1.25 Mbps",33.33,1
+"641","Gloobinho","1.75 Mbps",0,0
+"642","Gloobinho","2.25 Mbps",66.67,2
+"643","Gloobinho","2.75 Mbps",0,0
+"644","Gloobinho","3.25 Mbps",0,0
+"645","Gloobinho","3.75 Mbps",0,0
+"646","Gloobinho","4.25 Mbps",0,0
+"647","Gloobinho","4.75 Mbps",0,0
+"648","Gloobinho","5.25 Mbps",0,0
+"649","Gloobinho","5.75 Mbps",0,0
+"650","Gloobinho","6.25 Mbps",0,0
+"651","TV Centro América","0.25 Mbps",0,0
+"652","TV Centro América","0.75 Mbps",100,1
+"653","TV Centro América","1.25 Mbps",0,0
+"654","TV Centro América","1.75 Mbps",0,0
+"655","TV Centro América","2.25 Mbps",0,0
+"656","TV Centro América","2.75 Mbps",0,0
+"657","TV Centro América","3.25 Mbps",0,0
+"658","TV Centro América","3.75 Mbps",0,0
+"659","TV Centro América","4.25 Mbps",0,0
+"660","TV Centro América","4.75 Mbps",0,0
+"661","TV Centro América","5.25 Mbps",0,0
+"662","TV Centro América","5.75 Mbps",0,0
+"663","TV Centro América","6.25 Mbps",0,0
+"664","Rede Amazônica AM","0.25 Mbps",0,0
+"665","Rede Amazônica AM","0.75 Mbps",50,2
+"666","Rede Amazônica AM","1.25 Mbps",0,0
+"667","Rede Amazônica AM","1.75 Mbps",0,0
+"668","Rede Amazônica AM","2.25 Mbps",50,2
+"669","Rede Amazônica AM","2.75 Mbps",0,0
+"670","Rede Amazônica AM","3.25 Mbps",0,0
+"671","Rede Amazônica AM","3.75 Mbps",0,0
+"672","Rede Amazônica AM","4.25 Mbps",0,0
+"673","Rede Amazônica AM","4.75 Mbps",0,0
+"674","Rede Amazônica AM","5.25 Mbps",0,0
+"675","Rede Amazônica AM","5.75 Mbps",0,0
+"676","Rede Amazônica AM","6.25 Mbps",0,0

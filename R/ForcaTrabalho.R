@@ -12,4 +12,4 @@ ForcaTrabalho_wide <- ForcaTrabalho %>%
   mutate(PercentualDesocupapdo = `Força de trabalho - desocupada` / `Força de trabalho`)
 
 # Export data to csv
-write.csv(ForcaTrabalho_wide, "C:\\Users\\fhann\\Desktop\\Fernando\\Para Apple\\FGV\\Trabalho final\\01 Dados\\PNAD\\ForcaTrabalho.csv", row.names = FALSE)
+write.csv(ForcaTrabalho_wide, "C:\\Users\\MediaTechLab\\Documents\\GitHub\\VisEMAp2020Trabalho\\ForcaTrabalho.csv", row.names = FALSE)
